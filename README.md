@@ -6,6 +6,7 @@ A Firefox addon to stop all that url typing, inspired by [Bangs](https://duckduc
 
 Simply install the add-on for firefox, set all the matches that you like and start enjoying your new super fast research on the internet.
 
+![](settings.png)
 
 ## Credits
 
