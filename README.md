@@ -8,6 +8,8 @@ Simply install the add-on for firefox, set all the matches that you like and sta
 
 ![](settings.png)
 
+remember to use the `{s}` where you want to use the search query
+
 ## Credits
 
 Icons made by [Smashicons](https://www.flaticon.com/authors/smashicons) from [www.flaticon.com](https://www.flaticon.com/) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
