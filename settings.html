@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Rapid Url Settings</title>
+    <link rel="stylesheet" href="settings.css">
+</head>
+
+<body>
+    <div class="w-screen h-screen flex flex-col items-center bg-grey-light p-12">
+        <div class="p-4 max-w-full overflow-y-auto shadow-md rounded-sm bg-white w-4/5">
+            <h3 class="my-4 text-xl">Defined keys:</h3>
+            <p class="my-4 text-sm text-grey-darker leading-loose">
+                The search term must be set as {s} <br />
+                eg. https://your-url.com?s={s}
+            </p>
+            <form class="flex flex-col-reverse">
+                <div class="self-end">
+                    <button type="button" id="add" class="mt-6 my-2 rounded-full bg-blue-light py-2 px-6">Add</button>
+                    <button type="submit" class="mt-6 my-2 rounded-full bg-green-light py-2 px-6">Save</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="settings.js"></script>
+</body>
+
+</html>
